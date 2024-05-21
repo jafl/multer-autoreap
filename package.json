@@ -32,7 +32,7 @@
   },
   "peerDependencies": {
     "express": "^4.16.3",
-    "multer": "^1.4.5"
+    "multer": "^1.4.4"
   },
   "dependencies": {
     "debug": "^3.1.0",
